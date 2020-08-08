@@ -1,1 +1,2 @@
-# template-typescript
+# {{NAME}}
+{{DESCRIPTION}}
