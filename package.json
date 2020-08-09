@@ -11,6 +11,8 @@
 		"build": "tsc -b src",
 		"clean": "tsc -b src --clean",
 		"watch": "tsc -b src -w",
+		"test": "jest",
+		"test:coverage": "jest --coverage",
 		"sversion": "yarn standard-version"
 	},
 	"dependencies": {},
