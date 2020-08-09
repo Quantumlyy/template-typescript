@@ -46,7 +46,7 @@ jobs:
           path: node_modules
           key: ${{ runner.os }}-14-${{ hashFiles('**/yarn.lock') }}
       - name: Run EditorConfigLint
-        run: npx eclint fix src scripts .github
+        run: npx eclint fix src tests .github
 
   tsc:
     name: "Compiling - TSC"
