@@ -1,0 +1,9 @@
+*
+*/
+
+!.gitignore
+!package.json
+!README.md
+!register.js
+!register.d.ts
+!dist/
