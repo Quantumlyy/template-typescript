@@ -3,7 +3,7 @@
 	"description": "--description--",
 	"version": "1.0.0",
 	"main": "dist/index.js",
-	"author": "QuantumlyTangled <yo@quantumlytangled.com> (https://quantumlytangled.com)",
+	"author": "Nejc Drobnič <yo@quantumly.dev> (https://quantumly.dev)",
 	"license": "MIT",
 	"scripts": {
 		"start": "node dist/index.js",
